@@ -1,9 +1,0 @@
-int attr aspect_ratio 0x7f040001
-int drawable camera_focus_ring_fail 0x7f080001
-int drawable camera_focus_ring_success 0x7f080002
-int id focus_view 0x7f0b0001
-int id render_surface_view 0x7f0b0002
-int layout layout_camera_view 0x7f0e0001
-int string app_name 0x7f140001
-int[] styleable CameraLivingView { 0x7f040001 }
-int styleable CameraLivingView_aspect_ratio 0

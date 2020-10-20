@@ -1,9 +1,0 @@
-com.laifeng.sopcastsdk
-attr aspect_ratio
-drawable camera_focus_ring_fail
-drawable camera_focus_ring_success
-id focus_view
-id render_surface_view
-layout layout_camera_view
-string app_name
-styleable CameraLivingView aspect_ratio
